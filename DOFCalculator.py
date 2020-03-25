@@ -2,6 +2,7 @@ import PySimpleGUI as sg
 
 Swich = True
 print("Today is 20200325")
+print("I started a branch at 16:26")
 while(Swich):
 
     form1 = sg.FlexForm('自由度结算器')
