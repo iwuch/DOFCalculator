@@ -1,7 +1,7 @@
 import PySimpleGUI as sg
 
 Swich = True
-
+print("Today is 20200325")
 while(Swich):
 
     form1 = sg.FlexForm('自由度结算器')
